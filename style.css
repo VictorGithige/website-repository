@@ -1,0 +1,32 @@
+body{
+    background-image:url("images/2022-07-13-1920w.webp");
+    background-size: cover;
+    
+    
+    background-repeat: no-repeat;
+    
+}
+h1 {
+    color: white;
+    font-size: 180px;
+
+}
+nav ul {
+    list-style-type: none;
+   
+}
+nav li {
+    display: flex;
+    display: inline-block;
+    padding-right: 50px;
+    color: white;
+}
+.my-info{
+    color: white;
+    font-size: 50px;
+} 
+.contact-info{
+    font-size: 20px;
+    color: white;
+
+}
